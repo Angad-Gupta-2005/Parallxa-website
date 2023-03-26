@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lato",sans-serif;
+    margin: 0px 40px;
+}
+
+.container_1{
+   
+    background-image: url("parallax1.jpg");
+    min-height: 100vh;
+
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.first_div{
+    text-align: center;
+    padding-top: 300px;
+    font-size:50px;
+   
+}
+
+.text1{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-transform: uppercase;
+}
+
+.mid > h1{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 15px 0px;
+}
+
+.mid > p{
+   text-align: justify;
+   margin: 0px 90px;
+   line-height: 25px;
+   font-weight: 400;
+   letter-spacing: 1px;
+   padding-bottom: 30px;
+
+}
+
+.container_3{
+    background-image: url(parallax.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: uppercase;
+    background-attachment: fixed;
+    
+   
+}
+
+.second_div{
+   text-align: center;
+   padding-top: 200px;
+   font-size: 50px;
+   
+}
+
+.text2{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.container_4{
+    background-color: black;
+    color: white;
+    padding: 40px 0px;
+}
+
+.container_5{
+
+    background-image: url(parallax2.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: uppercase;
+    background-attachment: fixed;
+}
+
+.container_6{
+    background-image: url(parallax3.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: uppercase;
+    background-attachment: fixed;
+
+}
+.third_div{
+    text-align: center;
+    padding-top: 300px;
+    font-size: 50px;
+}
+
+.text2:hover{
+    background-color: transparent;
+    color: aqua;
+}
